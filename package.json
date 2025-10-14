@@ -3,6 +3,14 @@
   "version": "0.0.0",
   "private": true,
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "homepage": "https://github.com/Lascoski/projeto-front#readme",
+  "bugs": {
+    "url": "https://github.com/Lascoski/projeto-front/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lascoski/projeto-front.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "module",
