@@ -35,6 +35,7 @@ Técnicas Comuns Utilizadas pelos Criminosos
         <li>5. Use Redes Seguras: Evite redes Wi-Fi públicas para realizar transações sensíveis.</li>
         <li></li>
     </ul>
+    <img src="imgs/download.jpg" alt="" /> <br/>
     No Brasil, a proteção da identidade digital é regida principalmente pela Lei Geral de Proteção de Dados (LGPD), Lei nº 13.709/2018. A LGPD estabelece normas sobre a coleta, armazenamento, tratamento e compartilhamento de dados pessoais, garantindo maior segurança e privacidade para os cidadãos.
 
     O roubo de identidade online é uma ameaça real e crescente. A conscientização sobre as práticas comuns utilizadas por criminosos e a adoção de medidas preventivas são essenciais para proteger sua identidade digital. Além disso, a legislação vigente, como a LGPD, oferece um amparo jurídico importante para garantir a segurança e privacidade dos dados pessoais. Mantenha-se informado e tome as devidas precauções para evitar ser a próxima vítima.
@@ -43,6 +44,7 @@ Técnicas Comuns Utilizadas pelos Criminosos
 
     Mantenha-se informado e conheça seus direitos conforme a LGPD. Compartilhe este artigo para que mais pessoas estejam cientes dos perigos e possam se proteger e  conte com a nossa ajuda.
         </>
+        
         
     )
     
